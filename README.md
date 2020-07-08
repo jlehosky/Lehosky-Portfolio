@@ -1,3 +1,5 @@
+![Ice Climbing on Svinafellsjokull Glacier, Iceland](22769701_10213529600171112_761332877004409708_o.jpg)
+
 # About me 
 I'm Jessie Lehosky (She/her/hers) and I'm  a Heinz College MPM Student graduating in December 2020. I currently work as an Associate Director of Alumni Relations at the Tepper School of Business at CMU. I've previously had the privilege to work for the National Aviary and The Western Pennsylvania Conservancy, and hope to use my degree and experience at CMU to further support organizations promoting the importance of environmental educations and resource preservation.  
 
