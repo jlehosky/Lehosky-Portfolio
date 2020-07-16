@@ -20,13 +20,14 @@ A focused view on the 2016 debt-to-GDP ratios for European governments
 <div class="flourish-embed flourish-map" data-src="visualisation/3192547" data-url="https://flo.uri.sh/visualisation/3192547/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Review of Visualizations
-Beginning with the original bar chart above, this method provided a clear hiearchy of low-to-high values, but required frequent scanning from country name to the ratio amount and back again.  The second chart presents the country and its relative values in closer proximity, and but unlike the bar chart, comparing two countries side-by-side is now more challenge.  This chart does have the benefit of showing trends over time however, and using using the grid of line charts allow a reader to easily scan over the countries to notice patterns that stand out. 
+Beginning with the original bar chart above, this method provided a clear hiearchy of low-to-high values, but required frequent "eye travel" (Berinato, 2019) from country name to the ratio amount and back again.  The second chart presents the country and its relative values in closer proximity, and but unlike the bar chart, comparing two specifc countries side-by-side is now more challenging.  This chart does have the benefit of showing trends over time however, and using using the grid of line charts vizualization creates a standardized format that enables the reader to easily scan over the countries quickly to notice patterns that may stand out. 
 
-For the third chart, I wanted to select a visualization that would add an layer of recognizable comparison, and so selected a familiar map of Europe to use as the foundation. With a desire to make take advantage of "we see first what stands out" (Berinato, 2016), I selected a color palette with pale muted oranges on the low ratio side, and more alarming, vibrant reds on the high ratio side. 
+For the third chart, I wanted to select a visualization that would add an layer of recognizable comparison, and so selected a familiar map of Europe to use as the foundation. With a desire to take advantage of the idea that "we see first what stands out" (Berinato, 2016), I selected a color palette with pale muted oranges on the low ratio side, and more alarming, vibrant reds on the high ratio side (Berinato, 2019). This draws the eye quickly to Italy and then Greece, as the two European countries with the highest debt-to-GDP ratios.
 
 
-*Reference:
+*References:
 - *Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
+- *Berinato, S. (2019). Chapter 2. In Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations. Harvard Business Review.
 
 
 [Return to the Portfolio Main Page](/README.md)
