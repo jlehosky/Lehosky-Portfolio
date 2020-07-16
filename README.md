@@ -10,4 +10,4 @@ I hope to learn of creative ways to take the piles of data non-profits collect, 
 
 # Portfolio
 
-[Visualizing Government Debt](/govtdebtviz.md)
+[Visualizing Government Debt](https://jlehosky.github.io/Lehosky-Portfolio/govtdebtviz.md)
