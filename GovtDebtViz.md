@@ -25,6 +25,8 @@ Beginning with the original bar chart above, this method provided a clear hiearc
 For the third chart, I wanted to select a visualization that would add an layer of recognizable comparison, and so selected a familiar map of Europe to use as the foundation. With a desire to make take advantage of "we see first what stands out" (Berinato, 2016), I selected a color palette with pale muted oranges on the low ratio side, and more alarming, vibrant reds on the high ratio side. 
 
 
-*References:
+*Reference:
 - *Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
+
+
 [Return to the Portfolio Main Page](/README.md)
