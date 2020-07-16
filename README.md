@@ -9,3 +9,5 @@ I currently serve on the Junior Board of Venture Outdoors, a Pittsburgh non-prof
 I hope to learn of creative ways to take the piles of data non-profits collect, but often don't have the time or resources to process, and be able to turn them into captivating and engaging visual tools that organizations can use to move people to action and support. With a background (and future) in non-profit volunteer and community engagement, inspiring potential supporters to take those first steps of involvement with an organization is key! 
 
 # Portfolio
+
+Visualizing Government Debt(/govtdebtviz.md)
