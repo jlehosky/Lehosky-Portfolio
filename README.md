@@ -10,4 +10,4 @@ I hope to learn of creative ways to take the piles of data non-profits collect, 
 
 # Portfolio
 
-[Visualizing Government Debt](GovtDebtViz.md)
+[Visualizing Government Debt](/GovtDebtViz.md)
