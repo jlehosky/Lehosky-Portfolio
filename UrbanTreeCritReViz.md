@@ -22,7 +22,7 @@ My initial drafts flipped the style of charts #1 and #2, and chart #3 would now 
 
 ![IMG_8690](https://user-images.githubusercontent.com/67763281/88246772-88faed80-cc69-11ea-92ef-06873842b9c2.jpg)
 
-I solicitied feedback from my spouse and my sister to my drafts, via the following three questions:
+I solicited feedback from my spouse and my sister to my drafts, via the following three questions:
 
 **Can you describe to me what this is telling you?**
 * Chart #1: They both agreed it reflected very little diversity in tree types, and an under-representation of tree types if they fell below the dotted line
