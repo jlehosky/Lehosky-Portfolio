@@ -39,6 +39,7 @@ I solicitied feedback from my spouse and my sister to my drafts, via the followi
 
 ### Redesigned Visualizations
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3261854" data-url="https://flo.uri.sh/visualisation/3261854/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3261689" data-url="https://flo.uri.sh/visualisation/3261689/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
