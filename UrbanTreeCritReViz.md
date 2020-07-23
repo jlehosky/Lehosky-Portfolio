@@ -36,3 +36,14 @@ I solicitied feedback from my spouse and my sister to my drafts, via the followi
 **Is there anything you would change or do differently?**
 * Chart #2: My spouse suggested group the pie slices into broader categories, to ensure the reader grasps that the mix is current equally distributed. 
 * Overall: My sister suggested title edits for clarity, to let the reader know the intent of the charts (Do they reflect success, or room for growth?)
+
+### Redesigned Visualizations
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3261689" data-url="https://flo.uri.sh/visualisation/3261689/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+*Reference:*
+*Gray, K., Marino, A., & Naud, M. (2010, May 28). Environmental Indicators: Trees. The Ann Arbor Chronicle . https://annarborchronicle.com/2010/05/28/environmental-indicators-trees/index.html.*
+
+[Return to the Portfolio Main Page](/README.md)
