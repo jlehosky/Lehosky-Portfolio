@@ -13,7 +13,7 @@ For “Tree Diversity by Genus”, the author is illustrating that the Acer (Map
 
 For “Size Class Distribution of Total Tree Population”, the reverse of the first chart may be the case. For this section, the author wanted to make the point that a good indicator of the urban forest’s health was the diverse and mostly even mix of tree ages (as estimated by the tree’s diameter).  By showing it in a bar chart, the reader may believe they are to be comparing one tree size to another, instead of envisioning the total makeup of the forest.  For this one, I would suggest using a pie chart to emphasize that distribution and variety of tree ages/sizes. 
 
-For “Existing Urban Tree Canopy (UTC)”, the unique style and 3D projection make this chart stand out too much from the other two, reducing the consistency of the data visualizations.  Additionally, by lining the cities up alphabetically, it’s hard to understand where Ann Arbor, MI ranks against cities of similar sizes.  To estimate if they are doing better or worse comparatively, one has to scan from left to right and back again often, while cross-checking the city labels on the x-axis. I would update this chart both asthetically and would order it from largest-to-smallest tree canopy, to display where Ann Arbor falls among its peers.  
+For “Existing Urban Tree Canopy (UTC)”, the unique style and 3D projection make this chart stand out too much from the other two, reducing the consistency of the data visualizations.  Additionally, by lining the cities up alphabetically, it’s hard to understand where Ann Arbor, MI ranks against cities of similar sizes.  To estimate if they are doing better or worse comparatively, one has to scan from left to right and back again often, while cross-checking the city labels on the x-axis. I would update this chart aesthetically and would order it from largest-to-smallest tree canopy, to display where Ann Arbor falls among its peers.  
 
 ### Wireframe and User Feedback
 My initial drafts flipped the style of charts #1 and #2, and chart #3 would now be presented on a vertical axis, to improve readability of the city names.
@@ -25,13 +25,13 @@ My initial drafts flipped the style of charts #1 and #2, and chart #3 would now 
 I solicitied feedback from my spouse and my sister to my drafts, via the following three questions:
 
 **Can you describe to me what this is telling you?**
-* Chart #1: They both agreed it reflected very little diversity in tree types, and an under-represnetation of tree types if they fell below the dotted line
+* Chart #1: They both agreed it reflected very little diversity in tree types, and an under-representation of tree types if they fell below the dotted line
 * Chart #2: Unfortunately, I missed the mark on this pie chart, as the takeaway from both of them was that there was "more younger trees than older ones", when it was instead supposed to show an ideal even mix of tree sizes (ages).
 * Chart #3: They both agreed that the chart that move Ann Arbor to the middle of the pack is clear in its intent
 
 **Is there anything you find surprising or confusing?**
 * Chart #1: My sister commented that it felt strange to look at chart that was showing the breakdown of a total population ("a 100% chart") only go up to 40% on its y-axis, but understood that if the y-axis did go up to 100, the smaller bars would be too small 
-* Chart #2: I know I placed the slices out of order on my draft, with the intent to fix that in my final visuzlation, but my sister added even in the draft, it made it much harder to understand. My spouse felt there were too many slices, and wasn't sure what the takeaway way; Should there be more young trees than old, or the other way around?
+* Chart #2: I know I placed the slices out of order on my draft, with the intent to fix that in my final visualization, but my sister added even in the draft, it made it much harder to understand. My spouse felt there were too many slices, and wasn't sure what the takeaway way; Should there be more young trees than old, or the other way around?
 
 **Is there anything you would change or do differently?**
 * Chart #2: My spouse suggested group the pie slices into broader categories, to ensure the reader grasps that the mix is current equally distributed. 
