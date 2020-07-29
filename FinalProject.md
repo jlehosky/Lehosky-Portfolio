@@ -3,11 +3,11 @@
 ## Introduction & Outline
 For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); “an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation” (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using is from historical and current measurements of the air quality of the Pittsburgh region.  
 
-As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the emotional appeal of each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, and :green_circle:Optomistic for the future:
+As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, and :green_circle:Optimistic for the future:
 
 **Setup: The current reality**
 
-:red_circle: Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images seperated by slider)
+:red_circle: Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images separated by slider)
 
 :yellow_circle: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
 
@@ -23,7 +23,8 @@ As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my nar
 
 :green_circle: How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
 
-Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool to hone in on what will motivate them to take interest in this issue, and leading calls to action available to the reader/user:
+**User Stories / Narative**
+Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool we practiced in class to hone in on what will motivate viewers to take interest in this issue, and the calls to action available to the reader/user:
 
 **As a reader I want to** help support Tree Pittsburgh’s goal of planting more trees 
 
@@ -45,11 +46,9 @@ To the tell this story, I plan to use Storyboard, and will be suplementing this 
 **The American Lung Association’s 2020 [State of the Air](http://www.stateoftheair.org/) Report**
 
 I will be using data from this report to illustrate both:
-
 * How Pittsburgh ranks on various measures compared to the best/worst cities in the U.S.  
 * A 20-year historical snapshot of the linear progress made in the Pittsburgh area as it relates to the three measures of air pollution (Ozone, Short-term Particle, and Yearly Particle)
 
-*Sources:*
 * http://www.stateoftheair.org/city-rankings/most-polluted-cities.html
 * http://www.stateoftheair.org/city-rankings/cleanest-cities.html
 * http://www.stateoftheair.org/city-rankings/msas/pittsburgh-new-castle-weirton-pa-oh-wv.html#pmann
@@ -61,11 +60,19 @@ I will be using data from this report to illustrate both:
 **United States Environmental Protection Agency – Outdoor Air Quality Data Website**
 
 I will be using daily AQI data from the EPA to visually display the improvement of the AQI in Allegheny County from the 1980’s until present day. 
-
-*Sources:*
 * https://www.epa.gov/outdoor-air-quality-data
 * https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot
 
+**Tree Pittsburgh**
+
+I will be using resources provided by Tree Pittsburgh to highlight: 
+* The tangible benefits of urban forests
+* Resources available to readers who want to take action by volunteering, donating, learning, and more
+
+* https://www.treepittsburgh.org/resource/benefits-of-trees/
+* https://www.treepittsburgh.org/resource/pittsburgh-urban-forest-master-plan/ 
+
+*Note: I may tentatively incorporate a timeline of urban forestry practices in Pittsburgh, and if so, it would be scraped from this historical background file: https://www.treepittsburgh.org/wp-content/uploads/2016/11/pittsburgh_urban_forest_master_plan_201208_-_05-08_historical_background.pdf*
 
 ## Inital Sketches & Storyboard
 
@@ -78,8 +85,7 @@ I have selected the following Pittsburgh-based test users, with an aim to incude
 * Female, 20's, Non-Profit Fundraising
 * Female, 30's, Nurse
 * Male, 40's, Sales
-* Female, 60's, Retired 
-* Male, 60's, Priest
+* Male, 60's, Retired
 
 
 ### Research Questions & Script
