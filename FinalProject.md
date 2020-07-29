@@ -4,13 +4,15 @@
 For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); “an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation” (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using is from historical and current measurements of the air quality of the Pittsburgh region.  
 
 ### Outline & Story Arc
-As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, and :green_circle:Optimistic for the future:
+As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, :green_circle:Optimistic for the future, and :bulb:Neutral Knowledge:
 
 **Setup: The current reality**
 
 :red_circle: Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images separated by slider)
 
 :yellow_circle: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
+
+:bulb: How do urban trees improve air quality and communities?
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
 
