@@ -1,27 +1,36 @@
-# Breating Easier in the Pittsburgh Urban Forest
+# Breathing Easier in the Pittsburgh Urban Forest
 
 ## Introduction & Outline
 For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); “an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation” (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using is from historical and current measurements of the air quality of the Pittsburgh region.  
 
 As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections as follows:
+
 **Setup: The current reality**
-1) Opening with a dramatic visual to capture the reader’s attention and paint a dire picture
-2) Sharing a historic view of pollution levels in Pittsburgh, by the numbers (column chart)
+
+1. Opening with a dramatic visual to capture the reader’s attention and paint a dire picture
+1. Sharing a historic view of pollution levels in Pittsburgh, by the numbers (column chart)
+
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
-3) Line graph of air quality over time, overlaid with timeline of improvement initiatives; *this will serve to highlight just how long pollution reigned unchecked vs. how relatively recently these issues have been addressed  by local communities, non-profits, and governments.* 
-4) The dramatic peak; 
-  4) How does Pittsburgh rank against cities across the United States?  
-  4) How does Allegheny count rank against other counties in Pennsylvania?
+
+1. Line graph of air quality over time, overlaid with timeline of improvement initiatives; *this will serve to highlight just how long pollution reigned unchecked vs. how relatively recently these issues have been addressed  by local communities, non-profits, and governments.* 
+1. The dramatic peak; 
+  1. How does Pittsburgh rank against cities across the United States?  
+  1. How does Allegheny count rank against other counties in Pennsylvania?
+  
 **Resolution: The new/potential reality**
+
 5) There’s hope! Here’s information on Pittsburgh success stories 
 6) How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
 
 Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool to hone in on what will motivate them to take interest in this issue, and leading calls to action available to the reader/user:
 
-**As a reader I want to** help support Tree Pittsburgh’s goal of planting more trees **so that I can:**
+**As a reader I want to** help support Tree Pittsburgh’s goal of planting more trees 
+
+**So that I can:**
 * Enjoy better air quality in my community
 * Improve community relations
 *	Increase area property values
+
 **I can do this by:**
 *	Volunteering to plant and care for city trees
 *	Contributing financially 
