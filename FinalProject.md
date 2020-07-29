@@ -25,6 +25,7 @@ As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my nar
 :green_circle: How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
 
 
+
 ### User Stories / Narrative
 Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool we practiced in class to hone in on what will motivate viewers to take interest in this issue, and the calls to action available to the reader/user:
 
@@ -46,6 +47,7 @@ To the tell this story, I plan to use Storyboard, and will be suplementing this 
 ## Data Sources
 
 **The American Lung Association’s 2020 [State of the Air](http://www.stateoftheair.org/) Report**
+
 I will be using data from this report to illustrate both:
 1. How Pittsburgh ranks on various measures compared to the best/worst cities in the U.S.  
 1. A 20-year historical snapshot of the linear progress made in the Pittsburgh area as it relates to the three measures of air pollution (Ozone, Short-term Particle, and Yearly Particle)
@@ -59,11 +61,13 @@ I will be using data from this report to illustrate both:
 
 
 **United States Environmental Protection Agency – Outdoor Air Quality Data Website**
+
 I will be using daily AQI data from the EPA to visually display the improvement of the AQI in Allegheny County from the 1980’s until present day. 
 * https://www.epa.gov/outdoor-air-quality-data
 * https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot
 
 **Tree Pittsburgh**
+
 I will be using resources provided by Tree Pittsburgh to highlight: 
 1. The tangible benefits of urban forests
 1. Resources available to readers who want to take action by volunteering, donating, learning, and more
@@ -74,7 +78,10 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 *Note: I may tentatively incorporate a timeline of urban forestry practices in Pittsburgh, and if so, it would be scraped from this historical background file: https://www.treepittsburgh.org/wp-content/uploads/2016/11/pittsburgh_urban_forest_master_plan_201208_-_05-08_historical_background.pdf*
 
 **Western Pennsylvania Regional Data Center: City of Pittsburgh Trees**
-I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsbugh urban forest and the benefits that urban trees provide:  https://data.wprdc.org/dataset/city-trees
+
+I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsbugh urban forest and the benefits that urban trees provide:  
+
+https://data.wprdc.org/dataset/city-trees
 
 
 ## Inital Sketches & Storyboard
