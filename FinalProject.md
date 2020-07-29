@@ -34,15 +34,17 @@ Putting myself into the shoes of those reading and viewing this information, I'v
 *	Learning more / educating myself
 *	Organizing volunteer opportunities within my community
 
+To the tell this story, I plan to use Storyboard, and will be suplementing this with charts from Flourish and Tableau, and images from Unplash and Pexels.
+
 ## Data Sources
 
 ## Inital Sketches & Storyboard
 
 ## User Research and Interviews
-### What I Hope to Find:
+### What I Hope to Find
 Taking note from our recent in-class discussion on how to create the user story, my hope for readers (including these test users), is that they will will feel moved to learn more and/or contribute to improving the Pittsburgh urban forest, so that they can enjoy better air quality, among other benefits. I will hope to hear feedback from my test users that they felt, or did not feel, a combination of 1) shocked/alarmed by the historical and current data and 2) moved to learn more about how to help improve the situation. 
 
-### Target Audience:
+### Target Audience
 I have selected the following Pittsburgh-based test users, with an aim to incude a diverse set of ages, professions, and educational backgrounds
 * Female, 20's, Non-Profit Fundraising
 * Female, 30's, Nurse
@@ -51,9 +53,11 @@ I have selected the following Pittsburgh-based test users, with an aim to incude
 * Male, 60's, Priest
 
 
-### Research Questions & Script:
+### Research Questions & Script
+
 ### Interview Results
-### Resulting Changes to Draft Materials: 
+
+### Resulting Changes to Draft Materials 
 
 ## Moodboard
 
