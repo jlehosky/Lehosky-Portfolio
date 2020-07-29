@@ -86,6 +86,8 @@ I may use raw data from this very large dataset (45,703 trees and counting!) to 
 
 ## Inital Sketches & Storyboard
 
+[Final Project_Part 1_ Wireframe.pdf](https://github.com/jlehosky/Lehosky-Portfolio/files/4997841/Final.Project_Part.1_.Wireframe.pdf)
+
 ## User Research and Interviews
 ### What I Hope to Find
 Taking note from our recent in-class discussion on how to create the user story, my hope for readers (including these test users), is that they will will feel moved to learn more and/or contribute to improving the Pittsburgh urban forest, so that they can enjoy better air quality, among other benefits. I will hope to hear feedback from my test users that they felt, or did not feel, a combination of 1) shocked/alarmed by the historical and current data and 2) moved to learn more about how to help improve the situation. 
