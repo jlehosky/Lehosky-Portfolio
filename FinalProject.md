@@ -6,21 +6,18 @@ For my final project, I want to inspire readers to support the efforts of the [T
 As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections as follows:
 
 **Setup: The current reality**
-
 1. Opening with a dramatic visual to capture the reader’s attention and paint a dire picture
 1. Sharing a historic view of pollution levels in Pittsburgh, by the numbers (column chart)
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
-
 1. Line graph of air quality over time, overlaid with timeline of improvement initiatives; *this will serve to highlight just how long pollution reigned unchecked vs. how relatively recently these issues have been addressed  by local communities, non-profits, and governments.* 
 1. The dramatic peak; 
-  1. How does Pittsburgh rank against cities across the United States?  
-  1. How does Allegheny count rank against other counties in Pennsylvania?
+    1. How does Pittsburgh rank against cities across the United States?  
+    1. How does Allegheny count rank against other counties in Pennsylvania?
   
 **Resolution: The new/potential reality**
-
-5) There’s hope! Here’s information on Pittsburgh success stories 
-6) How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
+1. There’s hope! Here’s information on Pittsburgh success stories 
+1. How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
 
 Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool to hone in on what will motivate them to take interest in this issue, and leading calls to action available to the reader/user:
 
