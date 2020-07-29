@@ -6,53 +6,22 @@ For my final project, I want to inspire readers to support the efforts of the [T
 As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections as follows:
 
 **Setup: The current reality**
-* Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images seperated by slider)
-* Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
+
+:red_circle: Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images seperated by slider)
+
+:yellow_circle: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
-* Tile plots comparing Allegheny County Air Quality Index (AQI)scores over a 30 year span (by either 5 or 10 year increments) {
-    "mockup": {
-        "controls": {
-            "control": [
-                {
-                    "ID": "5",
-                    "typeID": "PointyButton",
-                    "zOrder": "0",
-                    "measuredW": "310",
-                    "measuredH": "27",
-                    "x": "357",
-                    "y": "143",
-                    "properties": {
-                        "direction": "left",
-                        "text": "Also shows improvement, but not good enough...",
-                        "color": "16776960"
-                    }
-                }
-            ]
-        },
-        "attributes": {
-            "name": "New Wireframe 1",
-            "order": 1000000,
-            "parentID": null
-        },
-        "resourceID": "2A14A39A-0619-4C86-A703-4AD2AA75E79A",
-        "mockupH": "27",
-        "mockupW": "310",
-        "measuredW": "667",
-        "measuredH": "170",
-        "version": "1.0"
-    },
-    "groupOffset": {
-        "x": 0,
-        "y": 0
-    },
-    "dependencies": []
-}
-* Line graphs of air quality measurements over 20-year period; the catch is that while these charts reflect a great improvement, the present day levels STILL exceed acceptable levels, earning Allegheny County a continuing "F" grade across all three air pollution measures (Ozone, Short-term Particle, and Yearly Particle)
+
+:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI)scores over a 30 year span (by either 5 or 10 year increments) 
+
+:red_circle: Line graphs of air quality measurements over 20-year period; the catch is that while these charts reflect a great improvement, the present day levels STILL exceed acceptable levels, earning Allegheny County a continuing "F" grade across all three air pollution measures (Ozone, Short-term Particle, and Yearly Particle)
   
 **Resolution: The new/potential reality**
-* There’s hope! Here’s information on Pittsburgh success stories 
-* How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
+
+:green_circle: There’s hope! Here’s information on Pittsburgh success stories 
+
+:green_circle: How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
 
 Putting myself into the shoes of those reading and viewing this information, I've used the "user stories" tool to hone in on what will motivate them to take interest in this issue, and leading calls to action available to the reader/user:
 
