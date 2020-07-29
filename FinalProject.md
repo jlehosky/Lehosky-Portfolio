@@ -39,23 +39,34 @@ To the tell this story, I plan to use Storyboard, and will be suplementing this 
 ## Data Sources
 
 **The American Lung Association’s 2020 [State of the Air](http://www.stateoftheair.org/) Report**
+
 I will be using data from this report to illustrate:
 
 1) How Pittsburgh ranks on various measures compared to the best/worst cities in the U.S.  
 
 2) A 20-year historical snapshot of the linear progress made in the Pittsburgh area as it relates to the three measures of air pollution (Ozone, Short-term Particle, and Yearly Particle)
-Sources: 
+
+Sources:
+
 http://www.stateoftheair.org/city-rankings/most-polluted-cities.html
+
 http://www.stateoftheair.org/city-rankings/cleanest-cities.html
+
 http://www.stateoftheair.org/city-rankings/msas/pittsburgh-new-castle-weirton-pa-oh-wv.html#pmann
+
 http://www.stateoftheair.org/city-rankings/states/pennsylvania/allegheny.html
 
 *Note: ALS created their rankings based on data retrieved from the Environmental Protection Agency and cite their sources in the [Methodology and Acknowledgements]( http://www.stateoftheair.org/about/methodology-and-acknowledgements.html) section of the ALS State of the Air website.*
 
+
 **United States Environmental Protection Agency – Outdoor Air Quality Data Website**
+
 I will be using daily AQI data from the EPA to visually display the improvement of the AQI in Allegheny County from the 1980’s until present day. 
+
 Sources: 
+
 https://www.epa.gov/outdoor-air-quality-data
+
 https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot
 
 
