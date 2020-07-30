@@ -126,8 +126,8 @@ Major changes I'll be making as a result of the feedback I received include:
 * While the line graph shown was a placeholder, when I vizualize the same data, I will draw more attention the threshold/passing limit line, to clarify the significance of Pittsburgh's failure to fall within the acceptable polution range. 
 * Revizualizing the bubble chart tree at the end, to reflect more as a "growing" image or chart, instead of static illustration. 
 
-## *References not otherwise noted above as Data Sources
-* *Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
-* *Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
+## References not otherwise noted above as Data Sources
+* Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
+* Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
 
 [Return to the Portfolio Main Page](/README.md)
