@@ -95,11 +95,11 @@ I created my wireframe and flow of story in the following PDF:
 Taking note from our recent in-class discussion on how to create the user story, my hope for readers (including these test users), is that they will feel moved to learn more and/or contribute to improving the Pittsburgh urban forest, so that they can enjoy better air quality, among other benefits. I will hope to hear feedback from my test users that they felt, or did not feel, a combination of 1) shocked/alarmed by the historical and current data and 2) moved to learn more about how to help improve the situation. 
 
 ### Target Audience
-I have selected the following Pittsburgh-based test users, with an aim to include a diverse set of ages, professions, and educational backgrounds
-* Female, 30's, Nurse
+I have selected the following Pittsburgh-based test users, with an aim to include a diverse set professions and educational backgrounds
+* Male, 40's, Teacher
 * Male, 40's, Sales
 * Male, 60's, Retired
-
+* *Note: Unfortunately, I was not able to gather feedback from two female volunteers (20's and 30's) as originally planned.* 
 
 ### Research Questions & Script
 Being mindful of not leading my test users on with too much context or information, I did provide them some background to the purpose of this class and this project, and some additional notes on how the final product would be presented:
@@ -131,5 +131,6 @@ Major changes I'll be making as a result of the feedback I received include:
 ## References not otherwise noted above as Data Sources
 * Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
 * Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
+
 
 [Return to the Portfolio Main Page](/README.md)
