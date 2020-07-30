@@ -4,27 +4,27 @@
 For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compel readers/viewers to action is historical and current measurements of the air quality/pollution of the Pittsburgh region.  
 
 ### Outline & Story Arc
-As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, :green_circle:Optimistic for the future, and :bulb:Neutral Knowledge:
+As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is one of Urgency( :red_circle:), Concern(:warning:), Optimistic(:heavy_check_mark:), or Neutral Knowledge(:bulb:):
 
 **Setup: The current reality**
 
 :red_circle: Opening with a dramatic visual to capture the reader’s attention and paint a dire picture (diametrically opposed images separated by slider)
 
-:yellow_circle: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
+:warning: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
 
 :bulb: How do urban trees improve air quality and community engagement?
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
 
-:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI) scores over a 40-year span (by either 10 or 20 year increments) 
+:warning: Tile plots comparing Allegheny County Air Quality Index (AQI) scores over a 40-year span (by either 10 or 20 year increments) 
 
 :red_circle: Line graphs of air quality measurements over 20-year period; the catch is that while these charts reflect a great improvement, the present day levels STILL exceed acceptable levels, earning Allegheny County a continuing "F" grade across all three air pollution measures (Ozone, Short-term Particle, and Yearly Particle)
   
 **Resolution: The new/potential reality**
 
-:green_circle: There’s hope! Here’s information on Pittsburgh success stories 
+:heavy_check_mark: There’s hope! Here’s information on Pittsburgh success stories 
 
-:green_circle: How YOU can you help your community thrive and breathe easier by partnering with Tree Pittsburgh
+:heavy_check_mark: How YOU can you help your community thrive and breathe easier by partnering with Tree Pittsburgh
 
 
 
