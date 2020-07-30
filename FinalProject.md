@@ -96,7 +96,6 @@ Taking note from our recent in-class discussion on how to create the user story,
 
 ### Target Audience
 I have selected the following Pittsburgh-based test users, with an aim to incude a diverse set of ages, professions, and educational backgrounds
-* Female, 20's, Non-Profit Fundraising
 * Female, 30's, Nurse
 * Male, 40's, Sales
 * Male, 60's, Retired
@@ -105,11 +104,11 @@ I have selected the following Pittsburgh-based test users, with an aim to incude
 ### Research Questions & Script
 Being mindful of not leading my test users on with too much context or information, I did provide them some background to the purpose of this class and this project, and some additional notes on how the final product would be presented:
 
-*"This final project is designed to help us learn how to use data to tell a more compelling story and ideally motivate a reader/listener to take action. 
+*This final project is designed to help us learn how to use data to tell a more compelling story and ideally motivate a reader/listener to take action.* 
 
-*It will be hosted on [Shorthand.com](https://www.piie.com/microsites/globalization/what-is-globalization), so look at these seven pages/panels with the idea that in their final form, they’ll exist on a more interactive and continuous scrolling website, with richer background images, fonts etc.
+*It will be hosted on [Shorthand.com](https://www.piie.com/microsites/globalization/what-is-globalization), so look at these seven pages/panels with the idea that in their final form, they’ll exist on a more interactive and continuous scrolling website, with richer background images, fonts etc.*
 
-*Please keep in mind that on our presentation day, we have just 60 seconds to walk the audience through our “story”, and so the ability to take deeper dives on any one part of the data is limited. 
+*Please keep in mind that on our presentation day, we have just 60 seconds to walk the audience through our “story”, and so the ability to take deeper dives on any one part of the data is limited.* 
 
 
 ### Interview Results
