@@ -88,7 +88,7 @@ I may use raw data from this very large dataset (45,703 trees and counting!) to 
 
 I created my wireframe and flow of story in the following PDF:
 
-:star: [Final Project_Part 1_ Wireframe.pdf](https://github.com/jlehosky/Lehosky-Portfolio/files/4998123/Final.Project_Part.1_.Wireframe.pdf)
+:star: [Final Project_Part 1_ Wireframe.pdf](https://github.com/jlehosky/Lehosky-Portfolio/files/4998123/Final.Project_Part.1_.Wireframe.pdf) :star:
 
 ## User Research and Interviews
 ### What I Hope to Find
@@ -117,6 +117,8 @@ The full set of responses are below, but major themes included:
 * :heavy_check_mark: Users felt motivated to support Tree Pittsburgh based on the data, especially volunteering and/or donating
 * :warning:Re-evaluating the presentation of the bar chart, as a way to compare cities across the U.S. Users felt it was hard to understand and/or digest the full spread of data. 
 * :warning: Ensuring that the placeholder page for "How Do Trees Make A Differece" contains compelling information to support the proposed solutions 
+
+![Feedback Grid Image](https://user-images.githubusercontent.com/67763281/88869129-f9f95280-d1df-11ea-80ec-d84aa07735d6.png)
 
 ### Resulting Changes to Draft Materials 
 Major changes I'll be making as a result of the feedback I received include:
