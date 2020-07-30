@@ -1,7 +1,7 @@
 # Breathing Easier in the Pittsburgh Urban Forest
 
 ## Introduction
-For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compell readers/viewers to action is historical and current measurements of the air quality/pollution of the Pittsburgh region.  
+For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compel readers/viewers to action is historical and current measurements of the air quality/pollution of the Pittsburgh region.  
 
 ### Outline & Story Arc
 As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, :green_circle:Optimistic for the future, and :bulb:Neutral Knowledge:
@@ -16,7 +16,7 @@ As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my nar
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
 
-:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI) scores over a 40 year span (by either 10 or 20 year increments) 
+:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI) scores over a 40-year span (by either 10 or 20 year increments) 
 
 :red_circle: Line graphs of air quality measurements over 20-year period; the catch is that while these charts reflect a great improvement, the present day levels STILL exceed acceptable levels, earning Allegheny County a continuing "F" grade across all three air pollution measures (Ozone, Short-term Particle, and Yearly Particle)
   
@@ -24,7 +24,7 @@ As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my nar
 
 :green_circle: There’s hope! Here’s information on Pittsburgh success stories 
 
-:green_circle: How YOU can you help your community thrive and breath easier by partnering with Tree Pittsburgh
+:green_circle: How YOU can you help your community thrive and breathe easier by partnering with Tree Pittsburgh
 
 
 
@@ -44,7 +44,7 @@ Putting myself into the shoes of those reading and viewing this information, I'v
 *	Learning more / educating myself
 *	Organizing volunteer opportunities within my community
 
-To the tell this story, I plan to use Storyboard, and will be suplementing this with charts from Flourish and Tableau, and images from Unplash and Pexels.
+To the tell this story, I plan to use Storyboard, and will be supplementing this with charts from Flourish and Tableau, and images from Unplash and Pexels.
 
 ## Data Sources
 
@@ -81,7 +81,7 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 
 **Western Pennsylvania Regional Data Center: City of Pittsburgh Trees**
 
-I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsbugh urban forest and the benefits that urban trees provide:  https://data.wprdc.org/dataset/city-trees
+I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsburgh urban forest and the benefits that urban trees provide:  https://data.wprdc.org/dataset/city-trees
 
 
 ## Initial Wireframe / Storyboard
@@ -92,10 +92,10 @@ I created my wireframe and flow of story in the following PDF:
 
 ## User Research and Interviews
 ### What I Hope to Find
-Taking note from our recent in-class discussion on how to create the user story, my hope for readers (including these test users), is that they will will feel moved to learn more and/or contribute to improving the Pittsburgh urban forest, so that they can enjoy better air quality, among other benefits. I will hope to hear feedback from my test users that they felt, or did not feel, a combination of 1) shocked/alarmed by the historical and current data and 2) moved to learn more about how to help improve the situation. 
+Taking note from our recent in-class discussion on how to create the user story, my hope for readers (including these test users), is that they will feel moved to learn more and/or contribute to improving the Pittsburgh urban forest, so that they can enjoy better air quality, among other benefits. I will hope to hear feedback from my test users that they felt, or did not feel, a combination of 1) shocked/alarmed by the historical and current data and 2) moved to learn more about how to help improve the situation. 
 
 ### Target Audience
-I have selected the following Pittsburgh-based test users, with an aim to incude a diverse set of ages, professions, and educational backgrounds
+I have selected the following Pittsburgh-based test users, with an aim to include a diverse set of ages, professions, and educational backgrounds
 * Female, 30's, Nurse
 * Male, 40's, Sales
 * Male, 60's, Retired
@@ -116,15 +116,15 @@ The full set of responses are below, but major themes included:
 * :heavy_check_mark: The data sufficiently conveyed that while Pittsburgh has made progress on air quality, more work is needed
 * :heavy_check_mark: Users felt motivated to support Tree Pittsburgh based on the data, especially volunteering and/or donating
 * :warning:Re-evaluating the presentation of the bar chart, as a way to compare cities across the U.S. Users felt it was hard to understand and/or digest the full spread of data. 
-* :warning: Ensuring that the placeholder page for "How Do Trees Make A Differece" contains compelling information to support the proposed solutions 
+* :warning: Ensuring that the placeholder page for "How Do Trees Make A Difference" contains compelling information to support the proposed solutions 
 
 ![Feedback Grid Image](https://user-images.githubusercontent.com/67763281/88869129-f9f95280-d1df-11ea-80ec-d84aa07735d6.png)
 
 ### Resulting Changes to Draft Materials 
 Major changes I'll be making as a result of the feedback I received include:
-* Re-evaluating the presentation of the bar chart as a way to compare cities across the U.S. I will explore additional ways to convey the severity of Pittsburgh's low rankings as compared to the 200+ cities in the data set, that doesn't overwelm the viewer/reader with bars.
-* While the line graph shown was a placeholder, when I vizualize the same data, I will draw more attention the threshold/passing limit line, to clarify the significance of Pittsburgh's failure to fall within the acceptable polution range. 
-* Revizualizing the bubble chart tree at the end, to reflect more as a "growing" image or chart, instead of static illustration. 
+* Re-evaluating the presentation of the bar chart as a way to compare cities across the U.S. I will explore additional ways to convey the severity of Pittsburgh's low rankings as compared to the 200+ cities in the data set, that doesn't overwhelm the viewer/reader with bars.
+* While the line graph shown was a placeholder, when I visualize the same data, I will draw more attention the threshold/passing limit line, to clarify the significance of Pittsburgh's failure to fall within the acceptable pollution range. 
+* Re-visualizing the bubble chart tree at the end, to reflect more as a "growing" image or chart, instead of static illustration. 
 
 ## References not otherwise noted above as Data Sources
 * Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
