@@ -118,7 +118,7 @@ The full set of responses are below, but major themes and significant points inc
 * :warning:Re-evaluating the presentation of the bar chart, as a way to compare cities across the U.S. Users felt it was hard to understand and/or digest the full spread of data. 
 * :warning: Making it clear that trees are not solely responsible for the improvement trends in area air quality, to avoid misleading users
 * :warning: Ensuring that the placeholder page for "How Do Trees Make A Difference" contains compelling information to support the proposed solutions 
-* :warning: Articulate that even though improvements have been made in Pittsburgh, and there are non-profits already working on the issues, the casue needs every person to step up to succeed. *This idea stemmed from one user's comment that while they feel the data is indeed compelling, it also looks like a lot of people are already working on it, so they don't need his help at this point.* 
+* :warning: Articulate that even though improvements have been made in Pittsburgh, and there are non-profits already working on the issues, the cause always needs more people to step up to succeed. *This idea stemmed from one user's comment that while they feel the data is indeed compelling, it also looks like a lot of people are already working on it, so they don't need his help at this point.* 
 
 ![Feedback Grid Image](https://user-images.githubusercontent.com/67763281/88872549-69734000-d1e8-11ea-9a02-2bd96159dc12.png)
 
