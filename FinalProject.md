@@ -84,7 +84,7 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsbugh urban forest and the benefits that urban trees provide:  https://data.wprdc.org/dataset/city-trees
 
 
-## Inital Wireframe / Storyboard
+## Initial Wireframe / Storyboard
 
 I created my wireframe and flow of story in the following PDF:
 
