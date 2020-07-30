@@ -12,11 +12,11 @@ As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my nar
 
 :yellow_circle: Sharing a current view of pollution levels in the Pittsburgh area, as compared to the least/most polluted cities in the U.S. (1-3 bar charts)
 
-:bulb: How do urban trees improve air quality and communities?
+:bulb: How do urban trees improve air quality and community engagement?
 
 **Conflict: Information to make the reader aware just how far Pittsburgh still has to go**
 
-:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI)scores over a 30 year span (by either 5 or 10 year increments) 
+:yellow_circle: Tile plots comparing Allegheny County Air Quality Index (AQI) scores over a 40 year span (by either 10 or 20 year increments) 
 
 :red_circle: Line graphs of air quality measurements over 20-year period; the catch is that while these charts reflect a great improvement, the present day levels STILL exceed acceptable levels, earning Allegheny County a continuing "F" grade across all three air pollution measures (Ozone, Short-term Particle, and Yearly Particle)
   
