@@ -84,9 +84,11 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsbugh urban forest and the benefits that urban trees provide:  https://data.wprdc.org/dataset/city-trees
 
 
-## Inital Sketches & Storyboard
+## Inital Wireframe / Storyboard
 
-[Final Project_Part 1_ Wireframe.pdf](https://github.com/jlehosky/Lehosky-Portfolio/files/4997841/Final.Project_Part.1_.Wireframe.pdf)
+I created my wireframe and flow of story in the following PDF:
+
+:star: [Final Project_Part 1_ Wireframe.pdf](https://github.com/jlehosky/Lehosky-Portfolio/files/4998123/Final.Project_Part.1_.Wireframe.pdf)
 
 ## User Research and Interviews
 ### What I Hope to Find
@@ -101,14 +103,29 @@ I have selected the following Pittsburgh-based test users, with an aim to incude
 
 
 ### Research Questions & Script
+Being mindful of not leading my test users on with too much context or information, I did provide them some background to the purpose of this class and this project, and some additional notes on how the final product would be presented:
+
+*"This final project is designed to help us learn how to use data to tell a more compelling story and ideally motivate a reader/listener to take action. 
+
+*It will be hosted on [Shorthand.com](https://www.piie.com/microsites/globalization/what-is-globalization), so look at these seven pages/panels with the idea that in their final form, they’ll exist on a more interactive and continuous scrolling website, with richer background images, fonts etc.
+
+*Please keep in mind that on our presentation day, we have just 60 seconds to walk the audience through our “story”, and so the ability to take deeper dives on any one part of the data is limited. 
+
 
 ### Interview Results
+The full set of responses are below, but major themes included:
+* :heavy_check_mark: The data sufficiently conveyed that while Pittsburgh has made progress on air quality, more work is needed
+* :heavy_check_mark: Users felt motivated to support Tree Pittsburgh based on the data, especially volunteering and/or donating
+* :warning:Re-evaluating the presentation of the bar chart, as a way to compare cities across the U.S. Users felt it was hard to understand and/or digest the full spread of data. 
+* :warning: Ensuring that the placeholder page for "How Do Trees Make A Differece" contains compelling information to support the proposed solutions 
 
 ### Resulting Changes to Draft Materials 
+Major changes I'll be making as a result of the feedback I received include:
+* Re-evaluating the presentation of the bar chart as a way to compare cities across the U.S. I will explore additional ways to convey the severity of Pittsburgh's low rankings as compared to the 200+ cities in the data set, that doesn't overwelm the viewer/reader with bars.
+* While the line graph shown was a placeholder, when I vizualize the same data, I will draw more attention the threshold/passing limit line, to clarify the significance of Pittsburgh's failure to fall within the acceptable polution range. 
+* Revizualizing the bubble chart tree at the end, to reflect more as a "growing" image or chart, instead of static illustration. 
 
-## Moodboard
-
-## References
+## *References not otherwise noted above as Data Sources
 * *Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
 * *Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
 
