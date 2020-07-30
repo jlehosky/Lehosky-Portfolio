@@ -1,7 +1,7 @@
 # Breathing Easier in the Pittsburgh Urban Forest
 
 ## Introduction
-For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compell readers/viewers to action is from historical and current measurements of the air quality/pollution of the Pittsburgh region.  
+For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compell readers/viewers to action is historical and current measurements of the air quality/pollution of the Pittsburgh region.  
 
 ### Outline & Story Arc
 As suggested in Chapter 8 of Good Charts (Berinato, 2016), I’ve divided my narrative into three sections, and the desired emotional response to each section is coded as :red_circle:Urgent, :yellow_circle:Concerning, :green_circle:Optimistic for the future, and :bulb:Neutral Knowledge:
