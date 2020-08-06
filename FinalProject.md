@@ -1,7 +1,7 @@
 ![zachary-anderson-4K2mNRNqpUg-unsplash](https://user-images.githubusercontent.com/67763281/88874849-05537a80-d1ee-11ea-805f-7f7ef559dbb6.jpg)
 Photo Credit: [Zachary Anderson](https://unsplash.com/@zanderson19)
 
-# Breathing Easier in the Pittsburgh Urban Forest
+# Breathing Easier in the Pittsburgh Urban Forest - Final Project Part 1
 
 ## Introduction
 For my final project, I want to inspire readers to support the efforts of the [Tree Pittsburgh](https://www.treepittsburgh.org/); *“an environmental non-profit organization dedicated to enhancing community vitality by restoring and protecting the urban forest through tree planting and care, education, advocacy, and land conservation”* (Tree Pittsburgh, 2020). While there is a myriad of benefits to increasing a city’s urban forest canopy, the primary data I’ll be using to compel readers/viewers to action is historical and current measurements of the air quality/pollution of the Pittsburgh region.  
