@@ -18,4 +18,4 @@ I hope to learn of creative ways to take the piles of data non-profits collect, 
 
 [Breathing Easier in the Pittsburgh Urban Forest - Part 2](/FinalProject2.md)
 
-[Final Presentation: How Can Pittsburgh Breathe Easier?](Link will open external link to Shorthand)](TBD Link)
+[Final Presentation: How Can Pittsburgh Breathe Easier?(Link will open external link to Shorthand)](https://shorthand.com)
