@@ -135,5 +135,6 @@ Major changes I'll be making as a result of the feedback I received include:
 * Berinato, S. (2016). Chapter 2. In Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review.
 * Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. [https://www.treepittsburgh.org/about/](https://www.treepittsburgh.org/about/)
 
+[Visit Final Project Part 2](/FinalProject2.md)
 
 [Return to the Portfolio Main Page](/README.md)
