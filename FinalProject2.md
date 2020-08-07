@@ -3,13 +3,13 @@ Photo Credit: [Zachary Anderson](https://unsplash.com/@zanderson19)
 
 # Breathing Easier in the Pittsburgh Urban Forest - Final Project Part 2
 
-## Recapping Key Ideas from [Part 1 of the Final Project](/FinalProject.md)
+## Revisting and Revising Key Ideas from [Part 1 of the Final Project](/FinalProject.md)
 
 ### Introduction & Refocusing Project Action Items
 My original final project was aimed to inspire readers to support the efforts specifically of [Tree Pittsburgh](https://www.treepittsburgh.org/); however, after some post-class discussion after week 5, I decided to avoid any potential affiliation issues by broadening the action item scope to several Pittsburgh-based environmental groups. The core story remains the same however: Motivate readers/viewers to explore ways to help grow the urban forest, but showing them historical and current measurements of the air quality/pollution of the Pittsburgh region, and let them know how urban trees can improve our air. 
 
 ### User Stories / Personas
-The user stories remained consistent from Part 1, with the persona being further refined as:
+The user stories remained consistent from Part 1, but I revised the personas further as:
 * Residents of the Pittsburgh Region
 * 25-55 years old
 * Likely old enough to either remember more polluted days or remember conversations their families have had about more polluted days
@@ -67,7 +67,6 @@ From Part 1 to Part 2, I opted not to create revised wireframes, but to instead 
 * Daniel Öberg - https://unsplash.com/@artic_studios
 * Benjamin Rascoe - https://unsplash.com/@dapperprofessional
 * Zoe Schaeffer - https://unsplash.com/@dirtjoy
+* Louis Velazquez - https://unsplash.com/@angelvela
 
-Louis Velazquez - https://unsplash.com/@angelvela
-
-[Return to the Portfolio Main Page](/README.md)
+## [Return to the Portfolio Main Page](/README.md)
