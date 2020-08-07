@@ -5,18 +5,18 @@ Photo Credit: [Zachary Anderson](https://unsplash.com/@zanderson19)
 
 ## Recapping Key Ideas from [Part 1 of the Final Project](/FinalProject.md)
 
-### Introduction & Refocusing PRoject Action Items
-My original final project was aimed to inspire readers to support the efforts specifcally of [Tree Pittsburgh](https://www.treepittsburgh.org/); however, after some post-class discussion after week 5, I decided to avoid any potential affliation issues by broadening the action item scope to several Pittsburgh-based enviromental groups. The core story remains the same however: Motivate readers/viewers to explore ways to help grow the upban forest, but showing them historical and current measurements of the air quality/pollution of the Pittsburgh region, and let them know how urban trees can improve our air. 
+### Introduction & Refocusing Project Action Items
+My original final project was aimed to inspire readers to support the efforts specifically of [Tree Pittsburgh](https://www.treepittsburgh.org/); however, after some post-class discussion after week 5, I decided to avoid any potential affiliation issues by broadening the action item scope to several Pittsburgh-based environmental groups. The core story remains the same however: Motivate readers/viewers to explore ways to help grow the urban forest, but showing them historical and current measurements of the air quality/pollution of the Pittsburgh region, and let them know how urban trees can improve our air. 
 
 ### User Stories / Personas
-The user stories remained consistant from Part 1, with the persona being further refined as:
+The user stories remained consistent from Part 1, with the persona being further refined as:
 * Residents of the Pittsburgh Region
 * 25-55 years old
-* Likely old enough to either remember more polluted days or remember converstaions their familes have had about them
+* Likely old enough to either remember more polluted days or remember conversations their families have had about more polluted days
 * Likely young enough to feel hopeful and motivated to take action for change
 
-**So they can:**
-* Enjoy better air quality in my community
+The goal is to motivate them to support area non-profits (not just Tree Pittsburgh); **So they can:**
+* Enjoy better air quality in their community
 * Improve community relations
 *	Increase area property values
 
@@ -28,6 +28,10 @@ The user stories remained consistant from Part 1, with the persona being further
 
 
 ### Test User Feedback (Part 1) and Resulting Changes (Part 2) 
+
+Taking questions 4 thru 6 from the original user feedback grid from Part 1, I've reflected on the changes I've made as a result. The largest change by far was to scrap the original bar chart in lieu of a point map. It reduces the number of data points for a user to review from 50 to 25, and also unexpectedly draws attention to the fact that Pittsburgh is the most polluted city east of Arizona; a startling fact that doesn't jump out until it's displayed on a map. I was able to use accompanying text in the final project page to highlight the numerical elements of the ranking data instead. Additional changes and reflections appear in the chart below:
+
+:bulb:*Click anywhere on image below to enlarge*
 
 ![Bar Chart to Point Map](https://user-images.githubusercontent.com/67763281/89604681-bafb7a80-d839-11ea-8f1a-4405688a4060.png)
 
