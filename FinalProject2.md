@@ -88,9 +88,5 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsburgh urban forest and the benefits that urban trees provide: [https://data.wprdc.org/dataset/city-trees](https://data.wprdc.org/dataset/city-trees)
 
 
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/how-can-pittsburgh-breathe-easier/"><h1>HOW CAN PITTSBURGH BREATHE EASIER?</h1><p>  To reverse the effects of decades of poor air quality in the Pittsburgh Region, growing our urban forest is essential to ensuring a clearer future for our region.   </p></div>
-
-
 
 [Return to the Portfolio Main Page](/README.md)
