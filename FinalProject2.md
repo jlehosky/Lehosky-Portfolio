@@ -31,7 +31,7 @@ The goal is to motivate them to support area non-profits (not just Tree Pittsbur
 
 Taking questions 4 thru 6 from the original user feedback grid from Part 1, I've reflected on the changes I've made as a result. The largest change by far was to scrap the original bar chart in lieu of a point map. It reduces the number of data points for a user to review from 50 to 25, and also unexpectedly draws attention to the fact that Pittsburgh is the most polluted city east of Arizona; a startling fact that doesn't jump out until it's displayed on a map. I was able to use accompanying text in the final project page to highlight the numerical elements of the ranking data instead. Additional changes and reflections appear in the chart below:
 
-:bulb: *Click anywhere on image below to enlarge*
+:bulb: *Right-click image and select "Open image in a new tab" to enlarge*
 
 ![Bar Chart to Point Map](https://user-images.githubusercontent.com/67763281/89604681-bafb7a80-d839-11ea-8f1a-4405688a4060.png)
 
@@ -42,16 +42,17 @@ From Part 1 to Part 2, I opted not to create revised wireframes, but to instead 
 
 ## Final Reference List:
 
-* Air Pollution Impact. https://www.vibrantcitieslab.com/research/air-pollution-impact/. Accessed 04 August 2020.
-* Environmental Protection Agency. (2020, July 27). Air Data: Air Quality Data Collected at Outdoor Monitors Across the US. EPA. https://www.epa.gov/outdoor-air-quality-data
-* Get Involved: Group Against Smog and Pollution. GASP. https://gasp-pgh.org/get-involved/
-* King County and partners surpass goal of planting one million trees, achieving a major milestone for climate action one year early. King County. (2020, July 30). https://www.kingcounty.gov/elected/executive/constantine/news/release/2020/July/30-one-million-trees.aspx
-* Most Polluted Cities: State of the Air. American Lung Association. (2020). http://www.stateoftheair.org/city-rankings/most-polluted-cities.html
-* Nowak, D. J., & Greenfield, E. J. (2018). US Urban Forest Statistics, Values, and Projections. Journal of Forestry, 116(2), 164–177. https://doi.org/10.1093/jofore/fvx004
-* Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
-* Urban Forestry Success Stories. California ReLeaf. (2009, October 28). https://californiareleaf.org/releaf-at-work/urban-forestry-success-stories/
-* Volunteer to Plant Trees. Western Pennsylvania Conservancy. https://waterlandlife.org/trees/volunteer-to-plant-a-tree/
-* Washington Outlook: Support for City Trees Grows. American Forests. (2020, June 15). https://www.americanforests.org/magazine/article/washington-outlook-support-for-city-trees-grows/
+* Air Pollution Impact. [https://www.vibrantcitieslab.com/research/air-pollution-impact/. Accessed 04 August 2020.](https://www.vibrantcitieslab.com/research/air-pollution-impact)
+* Environmental Protection Agency. (2020, July 27). Air Data: Air Quality Data Collected at Outdoor Monitors Across the US. EPA. [https://www.epa.gov/outdoor-air-quality-data](https://www.epa.gov/outdoor-air-quality-data)
+* Get Involved: Group Against Smog and Pollution. GASP. [https://gasp-pgh.org/get-involved/](https://gasp-pgh.org/get-involved/)
+* King County and partners surpass goal of planting one million trees, achieving a major milestone for climate action one year early. King County. (2020, July 30). [https://www.kingcounty.gov/elected/executive/constantine/news/release/2020/July/30-one-million-trees.aspx](https://www.kingcounty.gov/elected/executive/constantine/news/release/2020/July/30-one-million-trees.aspx)
+* Most Polluted Cities: State of the Air. American Lung Association. (2020). [http://www.stateoftheair.org/city-rankings/most-polluted-cities.html](http://www.stateoftheair.org/city-rankings/most-polluted-cities.html)
+* Nowak, D. J., & Greenfield, E. J. (2018). US Urban Forest Statistics, Values, and Projections. Journal of Forestry, 116(2), 164–177. [https://doi.org/10.1093/jofore/fvx004](https://doi.org/10.1093/jofore/fvx004)
+* Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. [https://www.treepittsburgh.org/about/](https://www.treepittsburgh.org/about/)
+* Tree Pittsburgh. (2017, April 25). Benefits of Trees. [https://www.treepittsburgh.org/resource/benefits-of-trees/.](https://www.treepittsburgh.org/resource/benefits-of-trees/)
+* Urban Forestry Success Stories. California ReLeaf. (2009, October 28). [https://californiareleaf.org/releaf-at-work/urban-forestry-success-stories/](https://californiareleaf.org/releaf-at-work/urban-forestry-success-stories/)
+* Volunteer to Plant Trees. Western Pennsylvania Conservancy. [https://waterlandlife.org/trees/volunteer-to-plant-a-tree/](https://waterlandlife.org/trees/volunteer-to-plant-a-tree/)
+* Washington Outlook: Support for City Trees Grows. American Forests. (2020, June 15). [https://www.americanforests.org/magazine/article/washington-outlook-support-for-city-trees-grows/](https://www.americanforests.org/magazine/article/washington-outlook-support-for-city-trees-grows/)
 
 ## Photo Credits:
 
