@@ -87,51 +87,33 @@ I will be using resources provided by Tree Pittsburgh to highlight:
 
 I may use raw data from this very large dataset (45,703 trees and counting!) to supplement information regarding the current state of the Pittsburgh urban forest and the benefits that urban trees provide: [https://data.wprdc.org/dataset/city-trees](https://data.wprdc.org/dataset/city-trees)
 
-# Final Reference List:
+### Final Reference List:
 
-Air Pollution Impact. https://www.vibrantcitieslab.com/research/air-pollution-impact/. Accessed 04 August 2020.
+* Air Pollution Impact. https://www.vibrantcitieslab.com/research/air-pollution-impact/. Accessed 04 August 2020.
+* Environmental Protection Agency. (2020, July 27). Air Data: Air Quality Data Collected at Outdoor Monitors Across the US. EPA. https://www.epa.gov/outdoor-air-quality-data
+* Get Involved: Group Against Smog and Pollution. GASP. https://gasp-pgh.org/get-involved/
+* King County and partners surpass goal of planting one million trees, achieving a major milestone for climate action one year early. King County. (2020, July 30). https://www.kingcounty.gov/elected/executive/constantine/news/release/2020/July/30-one-million-trees.aspx
+* Most Polluted Cities: State of the Air. American Lung Association. (2020). http://www.stateoftheair.org/city-rankings/most-polluted-cities.html
+* Nowak, D. J., & Greenfield, E. J. (2018). US Urban Forest Statistics, Values, and Projections. Journal of Forestry, 116(2), 164–177. https://doi.org/10.1093/jofore/fvx004
+* Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
+* Urban Forestry Success Stories. California ReLeaf. (2009, October 28). https://californiareleaf.org/releaf-at-work/urban-forestry-success-stories/
+* Volunteer to Plant Trees. Western Pennsylvania Conservancy. https://waterlandlife.org/trees/volunteer-to-plant-a-tree/
+* Washington Outlook: Support for City Trees Grows. American Forests. (2020, June 15). https://www.americanforests.org/magazine/article/washington-outlook-support-for-city-trees-grows/
 
-Environmental Protection Agency. (2020, July 27). Air Data: Air Quality Data Collected at Outdoor Monitors Across the US. EPA. https://www.epa.gov/outdoor-air-quality-data
+### Photo Credits:
 
-Get Involved: Group Against Smog and Pollution. GASP. https://gasp-pgh.org/get-involved/
+*All photos sources from Unsplash.com unless otherwise noted*
 
-King County and partners surpass goal of planting one million trees, achieving a major milestone for climate action one year early. King County. (2020, July 30). https://www.kingcounty.gov/elected/executive/constantine/news/release/2020/July/30-one-million-trees.aspx
-
-Most Polluted Cities: State of the Air. American Lung Association. (2020). http://www.stateoftheair.org/city-rankings/most-polluted-cities.html
-
-Nowak, D. J., & Greenfield, E. J. (2018). US Urban Forest Statistics, Values, and Projections. Journal of Forestry, 116(2), 164–177. https://doi.org/10.1093/jofore/fvx004
-
-Tree Pittsburgh. (2020, July 22). About Tree Pittsburgh. https://www.treepittsburgh.org/about/
-
-Urban Forestry Success Stories. California ReLeaf. (2009, October 28). https://californiareleaf.org/releaf-at-work/urban-forestry-success-stories/
-
-Volunteer to Plant Trees. Western Pennsylvania Conservancy. https://waterlandlife.org/trees/volunteer-to-plant-a-tree/
-
-Washington Outlook: Support for City Trees Grows. American Forests. (2020, June 15). https://www.americanforests.org/magazine/article/washington-outlook-support-for-city-trees-grows/
-
-# Photo Credits:
-
-(All photos sources from Unsplash.com unless otherwise noted)
-
-"City of Pittsburgh (1973)" by Hunter Desportes is licensed under CC BY 2.0 - https://www.flickr.com/photos/hdport/
-
-Zachary Anderson - https://unsplash.com/@zanderson19
-
-Jeremy Cooper - https://unsplash.com/@jcooper
-
-Jacob Culp - https://www.flickr.com/photos/hdport
-
-Meriç Dağlı - https://unsplash.com/@meric
-
-Mingjun Liu - https://unsplash.com/@mmmingjun
-
-Tuan Nguyen - https://unsplash.com/@tuannguyen728
-
-Daniel Öberg - https://unsplash.com/@artic_studios
-
-Benjamin Rascoe - https://unsplash.com/@dapperprofessional
-
-Zoe Schaeffer - https://unsplash.com/@dirtjoy
+* "City of Pittsburgh (1973)" by Hunter Desportes is licensed under CC BY 2.0 - https://www.flickr.com/photos/hdport/
+* Zachary Anderson - https://unsplash.com/@zanderson19
+* Jeremy Cooper - https://unsplash.com/@jcooper
+* Jacob Culp - https://www.flickr.com/photos/hdport
+* Meriç Dağlı - https://unsplash.com/@meric
+* Mingjun Liu - https://unsplash.com/@mmmingjun
+* Tuan Nguyen - https://unsplash.com/@tuannguyen728
+* Daniel Öberg - https://unsplash.com/@artic_studios
+* Benjamin Rascoe - https://unsplash.com/@dapperprofessional
+* Zoe Schaeffer - https://unsplash.com/@dirtjoy
 
 Louis Velazquez - https://unsplash.com/@angelvela
 
