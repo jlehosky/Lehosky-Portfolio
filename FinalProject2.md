@@ -31,9 +31,14 @@ The goal is to motivate them to support area non-profits (not just Tree Pittsbur
 
 Taking questions 4 thru 6 from the original user feedback grid from Part 1, I've reflected on the changes I've made as a result. The largest change by far was to scrap the original bar chart in lieu of a point map. It reduces the number of data points for a user to review from 50 to 25, and also unexpectedly draws attention to the fact that Pittsburgh is the most polluted city east of Arizona; a startling fact that doesn't jump out until it's displayed on a map. I was able to use accompanying text in the final project page to highlight the numerical elements of the ranking data instead. Additional changes and reflections appear in the chart below:
 
-:bulb:*Click anywhere on image below to enlarge*
+:bulb: *Click anywhere on image below to enlarge*
 
 ![Bar Chart to Point Map](https://user-images.githubusercontent.com/67763281/89604681-bafb7a80-d839-11ea-8f1a-4405688a4060.png)
+
+## Final Project on Shorthand
+From Part 1 to Part 2, I opted not to create revised wireframes, but to instead practice my refinements and changes within Shorthand, to allow for extra practice in creating and adjusting my elements within that space. While at first I resented the inflexibility of some elements of layouts and design, I came to appreciate the limitations, as it allowed me to focus more on my message and the data I was trying to feature.  I've linked to my Shorthand page here:
+
+:star: [Final Presentation: How Can Pittsburgh Breathe Easier?(Link will open external link to Shorthand)](https://carnegiemellon.shorthandstories.com/how-can-pittsburgh-breathe-easier-/index.html)
 
 ## Final Reference List:
 
