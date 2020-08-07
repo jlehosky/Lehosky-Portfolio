@@ -38,7 +38,7 @@ Taking questions 4 thru 6 from the original user feedback grid from Part 1, I've
 ## Final Project on Shorthand
 From Part 1 to Part 2, I opted not to create revised wireframes, but to instead practice my refinements and changes within Shorthand, to allow for extra practice in creating and adjusting my elements within that space. While at first I resented the inflexibility of some elements of layouts and design, I came to appreciate the limitations, as it allowed me to focus more on my message and the data I was trying to feature.  I've linked to my Shorthand page here:
 
-:star: [Final Presentation: How Can Pittsburgh Breathe Easier?(Link will open external link to Shorthand)](https://carnegiemellon.shorthandstories.com/how-can-pittsburgh-breathe-easier-/index.html)
+:star: [Final Presentation: How Can Pittsburgh Breathe Easier?(Link will open external link to Shorthand)](https://carnegiemellon.shorthandstories.com/how-can-pittsburgh-breathe-easier/index.html)
 
 ## Final Reference List:
 
