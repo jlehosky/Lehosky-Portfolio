@@ -1,4 +1,4 @@
-![Ice Climbing on Svinafellsjokull Glacier, Iceland](22769701_10213529600171112_761332877004409708_o.jpg)
+![Ice Climbing on Svinafellsjokull Glacier, Iceland - GitHub Cover Photo](https://user-images.githubusercontent.com/67763281/89749577-4ec98280-da96-11ea-84e5-aeea478d4260.png)
 
 # About me 
 I'm Jessie Lehosky (She/her/hers) and I'm  a Heinz College MPM Student graduating in December 2020. I currently work as an Associate Director of Alumni Relations at the Tepper School of Business at CMU. I've previously had the privilege to work for the National Aviary and The Western Pennsylvania Conservancy, and hope to use my degree and experience at CMU to further support organizations promoting the importance of environmental educations and resource preservation.  
@@ -19,3 +19,5 @@ I hope to learn of creative ways to take the piles of data non-profits collect, 
 [Breathing Easier in the Pittsburgh Urban Forest - Part 2](/FinalProject2.md)
 
 :star: [Final Presentation: How Can Pittsburgh Breathe Easier? (Link will open external link to Shorthand)](https://carnegiemellon.shorthandstories.com/how-can-pittsburgh-breathe-easier/index.html)
+
+### *Header image designed on Canva.com*
